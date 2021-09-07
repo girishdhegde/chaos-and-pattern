@@ -1,6 +1,6 @@
 # Chaos
 
-## Installation
+## Usage
 clone this repository and execute the following commands:
    ### to install requirements:
           pip install -r requirements.txt 
